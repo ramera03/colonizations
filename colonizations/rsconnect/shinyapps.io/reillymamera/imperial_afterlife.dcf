@@ -1,0 +1,12 @@
+name: imperial_afterlife
+title: imperial_afterlife
+username: reillymamera
+account: reillymamera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14251001
+bundleId: 9946601
+url: https://reillymamera.shinyapps.io/imperial_afterlife/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
